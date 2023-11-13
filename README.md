@@ -4,27 +4,22 @@ The website is a phone selling website. This website is a combination of pure ph
 The website has several main functions:
 +admin interface:
 At the admin interface there will be a number of features to manage the website including: product management, invoice management, user management,...
-![image](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/12af56d9-6bc4-4151-a858-2f4dd785fd72)
+![dienthoai_2](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/76e8e94b-9091-4941-b920-2accfbf00cf4)
 +user interface:
 At the user interface: there will be some features such as searching, viewing products, adding products to cart, buying products and some other features
 
--searching:
-
-![image](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/63defa49-f258-47eb-bdf5-efd159429c76)
-
 -viewing products:
+![dienthoai_3](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/93663734-7535-405f-aa16-4ac5cc441760)
 
-![image](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/1f2c8cdf-f2d2-4a15-b8af-dca28eb810a3)
 
 -viewing products detail:
+![dienthoai_4](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/36b606db-401d-40d2-8605-1f9c610066e7)
 
-![image](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/f7ea4f4d-caae-4efb-9b14-66a418d1e4e6)
 
 -adding products to cart:
 
-![image](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/ab57a0f8-a2c2-456f-b94a-8884920f4b69)
+![dienthoai_5](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/9a8c32ca-3c67-42b7-9485-6447c1c571ab)
 
--buying products:
 
-![image](https://github.com/phuocnguyen240401/Website-Sales-Phone/assets/90311677/752ac1c2-e538-42a7-906b-60ea622e3ba9)
+
 
